@@ -1,0 +1,12 @@
+.images{
+  border:1px solid blue;
+  width: 100%;
+  height: 400px;
+  overflow: auto;
+}
+
+.image{
+  width: 20%;
+  height: 200px;
+  margin:2%;
+}
